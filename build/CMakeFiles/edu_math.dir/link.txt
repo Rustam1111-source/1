@@ -1,0 +1,2 @@
+/usr/bin/ar qc libedu_math.a CMakeFiles/edu_math.dir/src/edu_math.c.o
+/usr/bin/ranlib libedu_math.a

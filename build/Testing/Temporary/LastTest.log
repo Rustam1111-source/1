@@ -1,0 +1,19 @@
+Start testing: Sep 19 11:09 MSK
+----------------------------------------------------------
+1/1 Testing: test_edu_math
+1/1 Test: test_edu_math
+Command: "/home/rustam/c_graphics_task1/build/test/test_edu_math"
+Directory: /home/rustam/c_graphics_task1/build/test
+"test_edu_math" start time: Sep 19 11:09 MSK
+Output:
+----------------------------------------------------------
+[====] Synthesis: Tested: 12 | Passing: 12 | Failing: 0 | Crashing: 0 
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"test_edu_math" end time: Sep 19 11:09 MSK
+"test_edu_math" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 11:09 MSK

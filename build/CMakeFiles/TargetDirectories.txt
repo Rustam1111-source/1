@@ -1,0 +1,8 @@
+/home/rustam/c_graphics_task1/build/CMakeFiles/edu_math.dir
+/home/rustam/c_graphics_task1/build/CMakeFiles/test.dir
+/home/rustam/c_graphics_task1/build/CMakeFiles/edit_cache.dir
+/home/rustam/c_graphics_task1/build/CMakeFiles/rebuild_cache.dir
+/home/rustam/c_graphics_task1/build/test/CMakeFiles/test_edu_math.dir
+/home/rustam/c_graphics_task1/build/test/CMakeFiles/test.dir
+/home/rustam/c_graphics_task1/build/test/CMakeFiles/edit_cache.dir
+/home/rustam/c_graphics_task1/build/test/CMakeFiles/rebuild_cache.dir
